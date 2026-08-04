@@ -10,7 +10,7 @@ int Echo = 10;
 int Time;
 int Distance;
 int person_present = 0;
-int x = 35;
+int x = 35;       //x is the threshold distance. for detecting a person
 
 void setup()
 {
